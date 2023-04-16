@@ -1,8 +1,6 @@
 # stayboogy_DellBrightnessKeys
 
-# initial commit from multiple repos here: 
-
-https://github.com/acidanthera
+## initial commit from multiple repos here: https://github.com/acidanthera
 
 User's source would not build without a broken header and library setup they use on their personal machine to build BrightnessKeys.kext from, so I found all the necessary files in their git and patched together this repo.
 
