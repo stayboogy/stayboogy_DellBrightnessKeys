@@ -1,0 +1,21 @@
+F11 = BRIGHTNESS DOWN
+
+F12 = BRIGHTNESS UP
+
+VKEY = F11 = 0x7a  122  0x67
+
+VKEY = F12 = 0x7b  123  0x6f
+
+Fn = 0x3f
+
+
+#define BRIGHTNESS_DOWN         0x6b  107
+#define BRIGHTNESS_UP           0x71  113
+
+NX_KEYTYPE_BRIGHTNESS_UP, 		0x90,
+NX_KEYTYPE_BRIGHTNESS_DOWN,     0x91,
+
+0x00,0xfe,0x33, //6b F14
+0x00,0xfe,0x34, //71 F15
+
+
